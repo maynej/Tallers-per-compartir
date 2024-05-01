@@ -6,4 +6,4 @@ Recopilat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study
 
 L'objectiu es ccompartir aquest tipus d'eines.
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Smarthome-1x1-Module/tree/main/DOC). 
+Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Tallers-per-compartir/DOC). 
