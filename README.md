@@ -13,7 +13,7 @@ Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Tallers-p
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
 Bolígraf 2D Llana |![](Imatges/Boligraf2D.png) | (DOC_CAT/TallerBoligraf2D_Llana_CAT.pdf)
-Bolígraf 3D |![](Imatges/Boligraf3D.png) | [Bolígraf 3D](DOC_CAT/Taller de Bolígraf 3D_CAT.pdf)
+Bolígraf 3D |![](Imatges/Boligraf3D.png) | [Bolígraf 3D](DOC_CAT/Taller_de_Bolígraf_3D_CAT.pdf)
 Dibuix animat |![](Imatges/AnimatedDrawings.png) | [Dibuixos animats](DOC_CAT/TallerDibuixFotoAnimat_CAT.pdf)
 Merge Cube |![](Imatges/MergeCube.png) | [Merge Cube](DOC_CAT/Taller CubeMerge_CAT.pdf)
 Quiver |![](Imatges/Quiver.png) | [Quiver](DOC_CAT/Taller Quiver_CAT.pdf)
