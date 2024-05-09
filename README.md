@@ -1,6 +1,6 @@
 # Tallers-per-compartir
 
-Recopilació d'eines educatives
+Recopilació d'eines educatives.
 
 Recopilat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
