@@ -4,7 +4,7 @@ Recopilació d'eines educatives
 
 Recopilat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
-L'objectiu es compartir aquest tipus d'eines.
+L'objectiu es compartir aquest tipus d'eines. En cada un d'ells hi ha el document PDF descriptiu del mateix.
 
 La [documentació es pot trobar també en llengua castellana](https://github.com/maynej/Tallers-per-compartir/tree/main/DOC_ESP). 
 
