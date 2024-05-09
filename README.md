@@ -10,7 +10,7 @@ La [documentació es pot trobar també en llengua castellana](https://github.com
 
 ## Propostes 
   
-Descripció         | Imatge          | Arxiu         
+Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
 Bolígraf 2D Llana |![](Imatges/Boligraf2D.png) | [Bolígraf 2D](DOC_CAT/TallerBoligraf2D_Llana_CAT.pdf)
 Bolígraf 3D |![](Imatges/Boligraf3D.png) | [Bolígraf 3D](DOC_CAT/Taller_de_Bolígraf_3D_CAT.pdf)
