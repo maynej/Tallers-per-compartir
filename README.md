@@ -20,8 +20,8 @@ Quiver |![](Imatges/Quiver.png) | [Quiver](DOC_CAT/Taller_Quiver_CAT.pdf)
 Open LED Race |![](Imatges/OLR.png) | [OLR](DOC_CAT/Taller_OpenLEDRace_CAT.pdf)
 Makey Makey |![](Imatges/Makey.png) | [Makey Makey](DOC_CAT/Taller_MakeyMakey_CAT.pdf)
 Google 3D |![](Imatges/Google.png) | [Google 3D](DOC_CAT/Taller_Google_CAT.pdf)
-Tetris Balanci |![](Imatges/Tetris.png) | [Tetris Balancí](DOC_CAT/TallerTetrisBalanci_CAT)
-
+Tetris Balanci |![](Imatges/Tetris.png) | [Tetris Balancí](DOC_CAT/TallerTetrisBalanci_CAT.pdf)
+Live Coding |![](Imatges/SintetitzadorLiveCoding.png) | [Live Coding](DOC_CAT/TallerSintetitzadorMicroblocks_CAT.pdf) 
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
