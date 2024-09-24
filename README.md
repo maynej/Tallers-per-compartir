@@ -6,7 +6,7 @@ Recopilat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study
 
 L'objectiu es compartir aquest tipus d'eines. En cada un d'ells hi ha el document PDF descriptiu del mateix.
 
-La documentació en [llengua castellana] en PDF es pot trobar en (https://github.com/maynej/Tallers-per-compartir/tree/main/DOC_ESP) 
+La documentació en llengua castellana en PDF es pot trobar en (https://github.com/maynej/Tallers-per-compartir/tree/main/DOC_ESP) 
 
 ## Propostes 
   
