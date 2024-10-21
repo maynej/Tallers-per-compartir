@@ -6,7 +6,7 @@ Recopilat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study
 
 L'objectiu es compartir aquest tipus d'eines. En cada un d'ells hi ha el document PDF descriptiu del mateix.
 
-La [documentació](https://github.com/maynej/Tallers-per-compartir/tree/main/DOC_ESP) es pot trobar també en llengua castellana 
+La documentació en llengua castellana en PDF es pot trobar en (https://github.com/maynej/Tallers-per-compartir/tree/main/DOC_ESP) 
 
 ## Propostes 
   
@@ -20,8 +20,9 @@ Quiver |![](Imatges/Quiver.png) | [Quiver](DOC_CAT/Taller_Quiver_CAT.pdf)
 Open LED Race |![](Imatges/OLR.png) | [OLR](DOC_CAT/Taller_OpenLEDRace_CAT.pdf)
 Makey Makey |![](Imatges/Makey.png) | [Makey Makey](DOC_CAT/Taller_MakeyMakey_CAT.pdf)
 Google 3D |![](Imatges/Google.png) | [Google 3D](DOC_CAT/Taller_Google_CAT.pdf)
-Tetris Balanci |![](Imatges/Tetris.png) | [Tetris Balancí](DOC_CAT/TallerTetrisBalanci_CAT.pdf)
+Tetris Balanci |![](Imatges/TetrisBalanci.png) | [Tetris Balancí](DOC_CAT/TallerTetrisBalanci_CAT.pdf)
 Live Coding Microblocks |![](Imatges/SintetitzadorLiveCoding.jpg) | [Live Coding](DOC_CAT/TallerSintetitzadorMicroblocks_CAT.pdf) 
+Paper Circuits |![](Imatges/PaperCircuits.jpg) | [PaperCircuits](DOC_CAT/Taller PaperCircuit_CAT.pdf)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
