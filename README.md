@@ -22,7 +22,7 @@ Makey Makey |![](Imatges/Makey.png) | [Makey Makey](DOC_CAT/Taller_MakeyMakey_CA
 Google 3D |![](Imatges/Google.png) | [Google 3D](DOC_CAT/Taller_Google_CAT.pdf)
 Tetris Balanci |![](Imatges/TetrisBalanci.png) | [Tetris Balancí](DOC_CAT/TallerTetrisBalanci_CAT.pdf)
 Live Coding Microblocks |![](Imatges/SintetitzadorLiveCoding.jpg) | [Live Coding](DOC_CAT/TallerSintetitzadorMicroblocks_CAT.pdf) 
-Paper Circuits |![](Imatges/PaperCircuits.jpg) | [PaperCircuits](DOC_CAT/TallerPaperCircuits_CAT.pdf)   [Halloween](DOC_CAT/19-Halloween-Paper-Circuit-Projects-Ebook.pdf))
+Paper Circuits |![](Imatges/PaperCircuits.jpg) | [PaperCircuits](DOC_CAT/TallerPaperCircuits_CAT.pdf) - [Halloween](DOC_CAT/19-Halloween-Paper-Circuit-Projects-Ebook.pdf)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
