@@ -13,7 +13,7 @@ La documentació en llengua castellana en PDF es pot trobar en (https://github.c
 Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
 Bolígraf 2D Llana |![](Imatges/Boligraf2D.png) | [Bolígraf 2D](DOC_CAT/TallerBoligraf2D_Llana_CAT.pdf)
-Bolígraf 3D |![](Imatges/Boligraf3D.png) | [Bolígraf 3D](DOC_CAT/Taller de Bolígraf 3D_CAT.pdf) - [Precaucions/Reparació](DOC_CAT/REPARACIOBoligraf3D_CAT.pdf)
+Bolígraf 3D |![](Imatges/Boligraf3D.png) | [Bolígraf 3D](DOC_CAT/Taller_de_Bolígraf3D_CAT.pdf) - [Precaucions/Reparació](DOC_CAT/REPARACIOBoligraf3D_CAT.pdf)
 Dibuix animat |![](Imatges/AnimatedDrawings.png) | [Dibuixos animats](DOC_CAT/TallerDibuixFotoAnimat_CAT.pdf)
 Merge Cube |![](Imatges/MergeCube.png) | [Merge Cube](DOC_CAT/Taller_CubeMerge_CAT.pdf)
 Quiver |![](Imatges/Quiver.png) | [Quiver](DOC_CAT/Taller_Quiver_CAT.pdf)
