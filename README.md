@@ -24,6 +24,7 @@ Tetris Balanci |![](Imatges/TetrisBalanci.png) | [Tetris Balancí](DOC_CAT/Talle
 Live Coding Microblocks |![](Imatges/SintetitzadorLiveCoding.jpg) | [Live Coding](DOC_CAT/TallerSintetitzadorMicroblocks_CAT.pdf) 
 Paper Circuits |![](Imatges/PaperCircuits.jpg) | [PaperCircuits](DOC_CAT/TallerPaperCircuits_CAT.pdf) - [Halloween](DOC_CAT/19-Halloween-Paper-Circuit-Projects-Ebook.pdf)
 
+## Llicència
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
 ## QR
