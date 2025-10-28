@@ -17,7 +17,7 @@ Bolígraf 3D |![](Imatges/Boligraf3D.png) | [Bolígraf 3D](DOC_CAT/Taller_de_Bol
 Dibuix animat |![](Imatges/AnimatedDrawings.png) | [Dibuixos animats](DOC_CAT/TallerDibuixFotoAnimat_CAT.pdf)
 Merge Cube |![](Imatges/MergeCube.png) | [Merge Cube](DOC_CAT/Taller_CubeMerge_CAT.pdf)
 Quiver |![](Imatges/Quiver.png) | [Quiver](DOC_CAT/Taller_Quiver_CAT.pdf)
-Open LED Race |![](Imatges/OLR.png) | [OLR](DOC_CAT/Taller OpenLEDRace_CAT.pdf)
+Open LED Race |![](Imatges/OLR.png) | [OLR](DOC_CAT/Taller_OpenLEDRace_CAT.pdf)
 Makey Makey |![](Imatges/Makey.png) | [Makey Makey](DOC_CAT/Taller_MakeyMakey_CAT.pdf)
 Google 3D |![](Imatges/Google.png) | [Google 3D](DOC_CAT/Taller_Google_CAT.pdf)
 Tetris Balanci |![](Imatges/TetrisBalanci.png) | [Tetris Balancí](DOC_CAT/TallerTetrisBalanci_CAT.pdf)
